@@ -1,0 +1,8 @@
+name=ccNC around view settings
+summary=Live settings for ccNC theme + around view 16:9 (no restart)
+panel_on=Camera key: 16:9 map plus right around view
+split_keep=Keep the split screen always on (16:9 map, camera column)
+auto_on=Auto-select rear camera and around view after the camera key
+bar_up=Raise the now playing bar (pixels, 0 = stock place, up to 400)
+live_note=Changes apply from the next camera view. No head unit restart needed.
+map_required=Verify the vehicle map in Seogaemo before turning this on.

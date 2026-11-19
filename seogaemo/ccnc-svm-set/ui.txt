@@ -1,0 +1,5 @@
+toggle setting=panel_on label=@panel_on
+toggle setting=split_keep label=@split_keep
+toggle setting=auto_on label=@auto_on
+number setting=bar_up label=@bar_up
+info @live_note

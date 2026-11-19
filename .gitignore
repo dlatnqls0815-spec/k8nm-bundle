@@ -1,0 +1,7 @@
+out/
+lib/
+private/
+*.dex
+*.hsm
+*.apk
+*.jar

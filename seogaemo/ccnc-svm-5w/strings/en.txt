@@ -1,0 +1,6 @@
+name=ccNC theme + around view 16:9
+summary=ccNC theme with the right around-view panel (16:9 map split)
+progress=Navigation progress (restart needed)
+safety=Reverse or screen off shows the stock full screen. Turn off the old ccNC theme and size test modules.
+restart_note=Change panel, split and auto in the "ccNC around view settings" module (no restart). Progress needs a restart.
+map_required=Verify the vehicle map in Seogaemo before turning this on.
